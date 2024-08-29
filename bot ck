@@ -31,4 +31,4 @@ async def joined(ctx, member: discord.Member):
     await ctx.send(f'{member.name} joined {discord.utils.format_dt(member.joined_at)}')
 
 
-bot.run("MTI3NTk3ODI1NjgxMzc4OTI0NA.GB1dDp.0-4IfDM6xN_oyN4YxLEaYhzpn99k3Xegmau68E")
+bot.run("token de CK")
